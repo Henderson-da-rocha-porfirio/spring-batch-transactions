@@ -1,4 +1,4 @@
-# Transactions with Spring Batch
+# Exemplo de Transactions Com Spring Batch
 
 ## * * * Verificar as branches para mais detalhes...
 
