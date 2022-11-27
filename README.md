@@ -46,16 +46,17 @@ gerenciando transações dentro de um chunk. Ele possui um job que lê um arquiv
 > b. criar as tabelas que estão no exemplo
 > 
 > c. Para isso verificar o arquivo scripts.sql
+>
+> d. Algumas modificações para o uso do PostgreSql e outras já foram feitas.
+> 
+> e. Caso queira verificar os arquivos originais que estão sendo usados em outro SGBD e/ou outro banco, favor,
+fazer as mudanças nas properties.
 
-## Spring Batch Transactions
+### 7 _ Fonte original sem alterações:
 
-
-
-## Verificando o funcionamento separadmente:
-
-- [ ] [Controle transacional com 1 banco de dados](https://github.com/giuliana-bezerra/sb-transactions/tree/v1.0)
-- [ ] [Transação deixa de funcionar com a adição de um novo banco para escrita](https://github.com/giuliana-bezerra/sb-transactions/tree/v2.0)
-- [ ] [Ajustar para utilizar transação no banco secundário](https://github.com/giuliana-bezerra/sb-transactions/tree/v3.0)
+- [x] [Controle transacional com 1 banco de dados](https://github.com/giuliana-bezerra/sb-transactions/tree/v1.0)
+- [x] [Transação deixa de funcionar com a adição de um novo banco para escrita](https://github.com/giuliana-bezerra/sb-transactions/tree/v2.0)
+- [x] [Ajustar para utilizar transação no banco secundário](https://github.com/giuliana-bezerra/sb-transactions/tree/v3.0)
 
 ## Referências
 
