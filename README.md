@@ -50,7 +50,7 @@ gerenciando transações dentro de um chunk. Ele possui um job que lê um arquiv
 > d. Algumas modificações para o uso do PostgreSql e outras já foram feitas.
 > 
 > e. Caso queira verificar os arquivos originais que estão sendo usados em outro SGBD e/ou outro banco, favor,
-fazer as mudanças nas properties.
+verificar as fontes abaixo.
 
 ### 7 _ Fonte original sem alterações:
 
