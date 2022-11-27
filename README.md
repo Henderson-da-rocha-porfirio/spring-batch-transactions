@@ -1,6 +1,10 @@
 # Transactions with Spring Batch
 
-## Pensando que existem passos a serem seguidos antes da atualizacao e cauculo
+## Fonte Basilar inicial
+- [x] [Overview](https://giuliana-bezerra.medium.com/spring-batch-para-desenvolvimento-de-jobs-1674ec5b9a20)
+- [x] [Executando o Job - exemplo](https://giuliana-bezerra.medium.com/desenvolvimento-com-spring-batch-execu%C3%A7%C3%A3o-do-job-4bc406152f3d)
+
+## Pensando que existem passos a serem seguidos antes da atualizacao e cáuculo
 > Diante da grande quantidade de dados que serão processados, eu estou fazendo uns testes com um projeto spring batch
 porque ele permite um bom acompanhamento e registro de toda a execução e prevê suporte para transacoes. Este Projeto serve como demonstração do uso do Spring Batch
 gerenciando transações dentro de um chunk. Ele possui um job que lê um arquivo de usuários e os insere no banco de dados.
@@ -52,7 +56,7 @@ gerenciando transações dentro de um chunk. Ele possui um job que lê um arquiv
 > e. Caso queira verificar os arquivos originais que estão sendo usados em outro SGBD e/ou outro banco, favor,
 verificar as fontes abaixo.
 
-### 7 _ Fonte original sem alterações:
+### 7 _ Fonte github original que serviu de base para este projeto exemplo sem as minhas alterações:
 
 - [x] [Controle transacional com 1 banco de dados](https://github.com/giuliana-bezerra/sb-transactions/tree/v1.0)
 - [x] [Transação deixa de funcionar com a adição de um novo banco para escrita](https://github.com/giuliana-bezerra/sb-transactions/tree/v2.0)
