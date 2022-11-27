@@ -57,6 +57,8 @@ gerenciando transações dentro de um chunk. Ele possui um job que lê um arquiv
 > 
 > e. Caso queira verificar os arquivos originais que estão sendo usados em outro SGBD e/ou outro banco, favor,
 verificar as fontes abaixo.
+>
+> f. Não esquecer de dar uma verificada no arquivo pessoas.csv para ver como é a sua estrutura.
 
 ### 7 _ Fonte github original que serviu de base para este projeto exemplo sem as minhas alterações:
 
