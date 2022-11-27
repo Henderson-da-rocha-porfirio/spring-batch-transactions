@@ -1,5 +1,7 @@
 # Transactions with Spring Batch
 
+## * * * Verificar as branches para mais detalhes...
+
 ## Fonte Basilar inicial
 - [x] [Overview](https://giuliana-bezerra.medium.com/spring-batch-para-desenvolvimento-de-jobs-1674ec5b9a20)
 - [x] [Executando o Job - exemplo](https://giuliana-bezerra.medium.com/desenvolvimento-com-spring-batch-execu%C3%A7%C3%A3o-do-job-4bc406152f3d)
