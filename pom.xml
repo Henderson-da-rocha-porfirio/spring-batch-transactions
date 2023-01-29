@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example</groupId>
-	<artifactId>BATCH.transactions-multiples-dbs</artifactId>
+	<artifactId>transactions-multiples-dbs</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>transactions-multiples-dbs</name>
 	<description>Demo project for Spring Boot</description>
